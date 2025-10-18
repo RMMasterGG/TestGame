@@ -53,7 +53,7 @@ A modern Java-based voxel game engine built from scratch with LWJGL and OpenGL, 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/voxel-game-engine.git
+git clone https://github.com/RMMasterGG/TestGame.git
 ./gradlew build
 ./gradlew run
 ```
@@ -109,7 +109,7 @@ git clone https://github.com/your-username/voxel-game-engine.git
 ## 📦 Установка
 
 ```bash
-git clone https://github.com/your-username/voxel-game-engine.git
+git clone https://github.com/RMMasterGG/TestGame.git
 ./gradlew build
 ./gradlew run
 ```
